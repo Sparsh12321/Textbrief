@@ -1,8 +1,8 @@
-🔐 SummSnap – Privacy Policy
+🔐 TextBrief – Privacy Policy
 Effective Date: 15/07/2025
 
 1. Data Collection
-SummSnap does not collect, track, or transmit any personal data or browsing history.
+TextBrief does not collect, track, or transmit any personal data or browsing history.
 The only data it interacts with is:
 
 Gemini API Key: Entered by the user and stored securely in Chrome’s local storage on the user’s device. It is never sent to any external server or accessed remotely by the developer.
@@ -17,7 +17,7 @@ Summaries are generated within the user’s browser session and are not saved, l
 3. Third-Party Services
 The extension uses Google’s Gemini API, and your interaction with that API is subject to Google’s own privacy and data usage terms.
 
-No third-party analytics or tracking tools are integrated into SummSnap.
+No third-party analytics or tracking tools are integrated into TextBrief.
 
 4. Storage of Data
 The Gemini API key is stored locally using Chrome’s storage API.
@@ -25,7 +25,7 @@ The Gemini API key is stored locally using Chrome’s storage API.
 Users can delete the stored key at any time by clearing the extension's data through Chrome settings.
 
 5. User Consent
-By using SummSnap, you agree to allow the extension to:
+By using TextBrief, you agree to allow the extension to:
 
 Store your Gemini API key locally on your device.
 
