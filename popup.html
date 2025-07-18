@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<<<<<<< HEAD
+    <title>SummSnap</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body style="min-width: 200px; padding: 10px; font-family: sans-serif;">
+    <h2>SummSnap</h2>
+    <div class="options">
+    <select id="summary-type">
+        <option value="brief">Brief</option>
+        <option value="detailed">Detailed</option>
+        <option value="bullets">Bullets</option>
+    </select>
+    <button id="summarize">Summarize</button>
+    <button id="copy-btn">Copy</button>
+=======
+    <meta charset="UTF-8">
+    <title>TextBrief</title>
+    <link rel="stylesheet" href="index.css">
+    <style>
+        body {
+            min-width: 200px;
+            padding: 10px;
+            font-family: sans-serif;
+        }
+        h2 {
+            margin-top: 0;
+        }
+        .options {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            margin-bottom: 10px;
+        }
+        button {
+            cursor: pointer;
+        }
+        #result {
+            white-space: pre-wrap;
+            background: #f9f9f9;
+            padding: 8px;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+    <h2>TextBrief</h2>
+    <div class="options">
+        <select id="summary-type">
+            <option value="brief">Brief</option>
+            <option value="detailed">Detailed</option>
+            <option value="bullets">Bullets</option>
+        </select>
+        <button id="summarize">Summarize</button>
+        <button id="copy-btn">Copy</button>
+>>>>>>> 60258f4 (first commit)
+    </div>
+    <pre id="result">Select a type and Summarize...</pre>
+    <script src="popup.js"></script>
+</body>
+<<<<<<< HEAD
+</html>
+=======
+</html>
+>>>>>>> 60258f4 (first commit)
