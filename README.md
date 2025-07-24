@@ -33,7 +33,7 @@
 
 ## Usage
 
-1. Click the **SummSnap** icon on any webpage you wish to summarize.
+1. Click the **TextBrief** icon on any webpage you wish to summarize.
 2. If it’s your first time using the extension, you will be prompted to enter your **Gemini API key**.
 3. Choose a summary format (brief, bullet points, or detailed).
 4. The AI-generated summary will appear instantly in the popup window.
